@@ -850,6 +850,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 ; 
 }
 
+#figure {
+    height: 250px;
+    width: 250px;    
+}
+
+#figure2 {
+    height: 280px;
+    width: 280px;    
+}
+
 .portfolio .portfolio-item figure:hover img {
     opacity: 0.3;
     transition: 0.3s;
